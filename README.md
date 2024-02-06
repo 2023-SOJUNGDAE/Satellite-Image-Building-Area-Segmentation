@@ -1,6 +1,6 @@
 # Satellite-Image-Building-Area-Segmentation
 
-We used it for the competition SOJUNGDAE.
+We used it for the competition SOJUNGDAE 2024.
 
 The main goal of the competition was to make a segmentation model for satellite building image.
 
