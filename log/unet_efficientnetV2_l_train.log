@@ -1,0 +1,98 @@
+/home/ubin108/anaconda3/envs/jaeung/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: libtorch_cuda_cu.so: cannot open shared object file: No such file or directory
+  warn(f"Failed to load image Python extension: {e}")
+/home/ubin108/anaconda3/envs/jaeung/lib/python3.9/site-packages/timm/models/_factory.py:114: UserWarning: Mapping deprecated model name tf_efficientnetv2_l_in21ft1k to current tf_efficientnetv2_l.in21k_ft_in1k.
+  model = create_fn(
+  0%|          | 0/357 [00:00<?, ?it/s][ WARN:0@8.962] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_3978.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.962] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_6957.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.962] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_0333.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.970] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_0360.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.980] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_0428.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.980] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_0217.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.980] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_5878.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.980] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_2011.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.981] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_1063.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.981] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_4369.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.981] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_2121.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.981] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_6609.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.982] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_3317.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.982] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_5509.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.982] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_3815.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.982] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_1107.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.982] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_5809.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.983] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_2123.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.983] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_6183.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.984] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_2112.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.984] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_2090.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.984] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_1081.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.984] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_2962.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.984] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_4399.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.985] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_2178.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.985] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_2082.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.986] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_1225.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.986] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_5339.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.986] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_3145.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.986] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_6330.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.986] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_6805.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.986] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_2084.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.986] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_3266.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.986] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_5282.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.986] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_1215.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.986] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_6115.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.986] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_4748.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_0128.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_1964.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_1862.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_3367.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_5216.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_2185.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_4883.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_5210.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_5803.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_5847.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_5317.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_0052.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_6814.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_4206.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_4989.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.987] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_1094.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.988] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_3218.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.988] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_5137.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.988] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_4505.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.988] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_3946.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.988] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_3337.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.988] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_4574.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.988] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_5164.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.988] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_5323.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.988] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_2120.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.988] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_2633.png'): can't open/read file: check file path/integrity
+[ WARN:0@8.989] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_4853.png'): can't open/read file: check file path/integrity
+  0%|          | 0/357 [00:01<?, ?it/s]
+[ WARN:0@8.990] global loadsave.cpp:248 findDecoder imread_('./train_img/TRAIN_1911.png'): can't open/read file: check file path/integrity
+Traceback (most recent call last):
+  File "/home/ubin108/unet_efficientnetV2_l_train.py", line 294, in <module>
+    for images, masks in tqdm(train_dataloader):
+  File "/home/ubin108/anaconda3/envs/jaeung/lib/python3.9/site-packages/tqdm/std.py", line 1178, in __iter__
+    for obj in iterable:
+  File "/home/ubin108/anaconda3/envs/jaeung/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 633, in __next__
+    data = self._next_data()
+  File "/home/ubin108/anaconda3/envs/jaeung/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 1345, in _next_data
+    return self._process_data(data)
+  File "/home/ubin108/anaconda3/envs/jaeung/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 1371, in _process_data
+    data.reraise()
+  File "/home/ubin108/anaconda3/envs/jaeung/lib/python3.9/site-packages/torch/_utils.py", line 644, in reraise
+    raise exception
+cv2.error: Caught error in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "/home/ubin108/anaconda3/envs/jaeung/lib/python3.9/site-packages/torch/utils/data/_utils/worker.py", line 308, in _worker_loop
+    data = fetcher.fetch(index)
+  File "/home/ubin108/anaconda3/envs/jaeung/lib/python3.9/site-packages/torch/utils/data/_utils/fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/home/ubin108/anaconda3/envs/jaeung/lib/python3.9/site-packages/torch/utils/data/_utils/fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/home/ubin108/anaconda3/envs/jaeung/lib/python3.9/site-packages/torch/utils/data/dataset.py", line 298, in __getitem__
+    return self.dataset[self.indices[idx]]
+  File "/home/ubin108/unet_efficientnetV2_l_train.py", line 141, in __getitem__
+    image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+cv2.error: OpenCV(4.8.0) /io/opencv/modules/imgproc/src/color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+

@@ -1,0 +1,12 @@
+pip install pretrained-backbones-unet
+pip install pretrained-backbones-unet
+pip install transformers
+pip install pandas
+pip install joblib
+pip install tqdm
+pip install albumentations
+pip install pretrainedmodels==0.7.4
+pip install efficientnet-pytorch==0.7.1
+pip install timm==0.6.12
+pip install pillow
+pip install opencv-python
